@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 first_number = int(input("First number: \n"))
 second_number = int(input("Second number: \n"))
 result = first_number * second_number
